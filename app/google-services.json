@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "859125243391",
+    "project_id": "sl-traveler-e69d2",
+    "storage_bucket": "sl-traveler-e69d2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:859125243391:android:226715f763167f53ae1bca",
+        "android_client_info": {
+          "package_name": "com.example.sl_travelar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "859125243391-kc49it2u64mpo9ja22eio6vnad90mp6a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUUCQOpB4J1FbXtnIVo3_WGDJVeUxvRuc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "859125243391-kc49it2u64mpo9ja22eio6vnad90mp6a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
